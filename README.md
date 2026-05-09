@@ -7,12 +7,11 @@ with categories, priorities, filters, and persistent storage.
 ---
 
 ## 🚀 Live Demo
-
-
-
+https://to-do-list-five-zeta-62.vercel.app/
 ---
 
 ## 📸 Screenshots
+<img width="953" height="471" alt="image" src="https://github.com/user-attachments/assets/b60b227d-8ab5-4ef6-8dde-ec84f34b8179" />
 
 
 ---
