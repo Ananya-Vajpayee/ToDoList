@@ -1,20 +1,129 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ✅ TaskFlow — To-Do List Application
 
-# Run and deploy your AI Studio app
+A clean, professional, and fully responsive To-Do List web application
+built with modern web technologies. Manage your daily tasks efficiently
+with categories, priorities, filters, and persistent storage.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/55152b22-2eae-4696-b4ca-53812ca8aedf
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 🚀 Live Demo
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+---
+
+## 📸 Screenshots
+
+
+---
+
+## ✨ Features
+
+- ➕ Add tasks with title, category, priority, and due date
+- ✅ Mark tasks as complete with smooth animations
+- 🗑️ Delete tasks with confirmation prompt
+- ✏️ Inline edit task titles
+- ⭐ Mark tasks as important/starred
+- 🔍 Live search across all tasks
+- 🎯 Filter by: All, Active, Completed, Today, Important
+- 🏷️ Categories: Work, Personal, Health, Shopping, Other
+- 📊 Stats bar: Total / Completed / Pending count
+- 🌙 Dark mode toggle (preference saved)
+- 💾 LocalStorage persistence — data survives page refresh
+- 📱 Fully responsive — works on mobile and desktop
+- 🎨 Smooth CSS transitions and animations throughout
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling & Animations |
+| Vanilla JavaScript | Logic & Interactivity |
+| LocalStorage API | Data Persistence |
+| Google Fonts (Inter) | Typography |
+
+---
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/Ananya-Vajpayee/ToDoList.git
+```
+
+2. **Navigate to the project folder**
+```bash
+   cd ToDoList
+```
+
+3. **Install dependencies**
+```bash
+   npm install
+```
+
+4. **Start the development server**
+```bash
+   npm run dev
+```
+
+5. **Open in browser**
+
+---
+
+## 🚀 Deployment
+
+### Deploy to GitHub Pages
+
+1. Build the project:
+```bash
+   npm run build
+```
+
+2. Deploy the `dist/` folder to GitHub Pages via repo Settings → Pages.
+
+---
+
+## 🎯 Usage
+
+| Action | How to do it |
+|--------|-------------|
+| Add task | Type in the input bar → press Enter or click Add |
+| Complete task | Click the round checkbox |
+| Delete task | Hover over task → click 🗑️ icon |
+| Edit task | Hover over task → click ✏️ icon |
+| Star task | Click ⭐ icon to mark as important |
+| Filter tasks | Use sidebar links or filter tabs |
+| Search tasks | Type in the search bar at the top |
+| Toggle dark mode | Click 🌙 / ☀️ button (top right) |
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] User authentication (login/signup)
+- [ ] Cloud sync across devices
+- [ ] Subtasks support
+- [ ] Task due date reminders / notifications
+- [ ] Drag and drop reordering
+- [ ] Calendar view
+- [ ] Export tasks as PDF or CSV
+- [ ] Collaborative shared lists
+
+---
+
+
+## 👩‍💻 Author
+
+**Ananya Vajpayee**
+- GitHub: [@Ananya-Vajpayee](https://github.com/Ananya-Vajpayee)
